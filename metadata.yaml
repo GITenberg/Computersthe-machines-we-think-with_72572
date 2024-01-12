@@ -1,0 +1,38 @@
+_repo: Computersthe-machines-we-think-with_72572
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Halacy, D. S. (Daniel Stephen)
+    aliases:
+    - Halacy, Dan
+    - Halacy, Daniel S. (Daniel Stephen)
+    - Halacy, Daniel Stephen
+    birthdate: 1919
+    deathdate: 2002
+    gutenberg_agent_id: '56730'
+    url: http://www.gutenberg.org/2009/agents/56730
+description: ''
+gutenberg_issued: '2024-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72572'
+  lccn: '62014564'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/mdp.39015059730518
+pgterms:marc905: 20230321052442halacy
+pgterms:marc906: '1962'
+pgterms:marc907: US
+production_note: Aaron Adrignola, Tim Lindell, Linda Cantoni and the Online Distributed
+  Proofreading Team at https://www.pgdp.net (This book was produced from images made
+  available by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bHarper & Row, $c1962.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Computers -- Popular works'
+- !lcsh 'Electronic data processing -- Popular works'
+- !lcc 'QA'
+- GITenberg
+title: Computers—the machines we think with
+url: http://www.gutenberg.org/ebooks/72572
